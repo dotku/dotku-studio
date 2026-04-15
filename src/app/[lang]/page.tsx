@@ -6,6 +6,7 @@ import { Hero } from "@/components/Hero";
 import { Services } from "@/components/Services";
 import { Stats } from "@/components/Stats";
 import { Partners } from "@/components/Partners";
+import { Vendors } from "@/components/Vendors";
 import { Projects } from "@/components/Projects";
 import { Featured } from "@/components/Featured";
 import { Contact } from "@/components/Contact";
@@ -30,6 +31,7 @@ export default async function HomePage({
         <Stats dict={dict} />
         <Services dict={dict} />
         <Partners dict={dict} />
+        <Vendors dict={dict} />
         <Featured lang={lang} dict={dict} />
         <Projects lang={lang} dict={dict} />
         <Contact lang={lang} dict={dict} />

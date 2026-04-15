@@ -64,6 +64,17 @@
     "repos": "오픈소스 프로젝트",
     "years": "업계 경력"
   },
+  "vendors": {
+    "eyebrow": "기술 파트너",
+    "heading": "검증된 인프라 위에 구축합니다",
+    "sub": "업계를 선도하는 클라우드·AI·결제·플랫폼 파트너와 통합 — 팀이 이미 신뢰하는 플랫폼 위에서 제품을 운영할 수 있습니다.",
+    "categoryCloud": "클라우드",
+    "categoryAi": "AI",
+    "categoryPayments": "결제",
+    "categoryDevices": "디바이스",
+    "categoryOnline": "업무 도구",
+    "categorySocial": "소셜 플랫폼"
+  },
   "partners": {
     "eyebrow": "고객 & 협력",
     "heading": "9개 산업에서 신뢰받는 파트너",

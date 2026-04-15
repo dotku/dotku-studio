@@ -64,6 +64,17 @@
     "repos": "開源專案",
     "years": "產業經驗"
   },
+  "vendors": {
+    "eyebrow": "技術供應商",
+    "heading": "建構於可靠的基礎設施之上",
+    "sub": "我們整合業界領先的雲端、AI、金流與平台生態——讓您的產品運行在團隊熟悉的技術棧上",
+    "categoryCloud": "雲端",
+    "categoryAi": "AI",
+    "categoryPayments": "金流",
+    "categoryDevices": "裝置",
+    "categoryOnline": "線上辦公",
+    "categorySocial": "社群平台"
+  },
   "partners": {
     "eyebrow": "客戶 & 合作",
     "heading": "9 大產業的信賴之選",

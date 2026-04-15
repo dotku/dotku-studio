@@ -64,6 +64,17 @@
     "repos": "Proyectos open source",
     "years": "Años de experiencia"
   },
+  "vendors": {
+    "eyebrow": "Proveedores tecnológicos",
+    "heading": "Construido sobre infraestructura probada",
+    "sub": "Integramos con los proveedores líderes de cloud, IA, pagos y plataformas — para que tu producto corra en plataformas que tu equipo ya conoce.",
+    "categoryCloud": "Cloud",
+    "categoryAi": "IA",
+    "categoryPayments": "Pagos",
+    "categoryDevices": "Dispositivos",
+    "categoryOnline": "Productividad",
+    "categorySocial": "Redes sociales"
+  },
   "partners": {
     "eyebrow": "Clientes y colaboraciones",
     "heading": "De confianza en 9 industrias",

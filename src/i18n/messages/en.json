@@ -64,6 +64,17 @@
     "repos": "Open-source projects",
     "years": "Years of experience"
   },
+  "vendors": {
+    "eyebrow": "Technology partners",
+    "heading": "Built on proven infrastructure",
+    "sub": "We integrate with industry-leading cloud, AI and payment providers — so your product runs on platforms your team already trusts.",
+    "categoryCloud": "Cloud",
+    "categoryAi": "AI",
+    "categoryPayments": "Payments",
+    "categoryDevices": "Devices",
+    "categoryOnline": "Productivity",
+    "categorySocial": "Social platforms"
+  },
   "partners": {
     "eyebrow": "Clients & collaborations",
     "heading": "Trusted across 9 industries",

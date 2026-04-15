@@ -64,6 +64,17 @@
     "repos": "オープンソースプロジェクト",
     "years": "業界経験"
   },
+  "vendors": {
+    "eyebrow": "技術パートナー",
+    "heading": "実績あるインフラの上で構築",
+    "sub": "業界をリードするクラウド・AI・決済・プラットフォームプロバイダと統合 — 貴社チームが既に信頼するプラットフォーム上でプロダクトを運用できます。",
+    "categoryCloud": "クラウド",
+    "categoryAi": "AI",
+    "categoryPayments": "決済",
+    "categoryDevices": "デバイス",
+    "categoryOnline": "業務ツール",
+    "categorySocial": "ソーシャル"
+  },
   "partners": {
     "eyebrow": "顧客 & コラボ",
     "heading": "9 業界で信頼されるパートナー",

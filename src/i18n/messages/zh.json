@@ -64,6 +64,17 @@
     "repos": "开源项目",
     "years": "行业经验"
   },
+  "vendors": {
+    "eyebrow": "技术供应商",
+    "heading": "构建于可靠的基础设施之上",
+    "sub": "我们集成业内领先的云服务、AI、支付与平台生态——让您的产品运行在团队熟悉的技术栈上",
+    "categoryCloud": "云",
+    "categoryAi": "AI",
+    "categoryPayments": "支付",
+    "categoryDevices": "设备",
+    "categoryOnline": "线上办公",
+    "categorySocial": "社交平台"
+  },
   "partners": {
     "eyebrow": "客户 & 合作",
     "heading": "9 大行业的信赖之选",
