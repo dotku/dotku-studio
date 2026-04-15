@@ -134,6 +134,7 @@
   },
   "footer": {
     "tagline": "Soluciones de negocio con IA, entregadas.",
+    "parent": "DotKu Studio es la división de I+D tecnológico de JY Tech LLC.",
     "gicsBefore": "Huella open source clasificada con ",
     "gicsLink": "MSCI / S&P GICS",
     "rights": "Todos los derechos reservados."

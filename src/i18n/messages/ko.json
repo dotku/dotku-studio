@@ -134,6 +134,7 @@
   },
   "footer": {
     "tagline": "AI 기반 비즈니스 솔루션, 프로덕션까지.",
+    "parent": "DotKu Studio는 JY Tech LLC 산하 기술 R&D 사업부입니다.",
     "gicsBefore": "오픈소스 발자취는 ",
     "gicsLink": "MSCI / S&P GICS",
     "rights": "모든 권리 보유."

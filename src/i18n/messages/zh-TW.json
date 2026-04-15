@@ -134,6 +134,7 @@
   },
   "footer": {
     "tagline": "AI 驅動的商業解決方案，交付上線",
+    "parent": "DotKu Studio 是 JY Tech LLC 旗下科技研發技術部門",
     "gicsBefore": "開源版圖依據 ",
     "gicsLink": "MSCI / S&P GICS",
     "rights": "保留所有權利"

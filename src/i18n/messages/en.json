@@ -134,6 +134,7 @@
   },
   "footer": {
     "tagline": "AI-powered business solutions, shipped.",
+    "parent": "DotKu Studio is the technology R&D division of JY Tech LLC.",
     "gicsBefore": "Open-source footprint classified using ",
     "gicsLink": "MSCI / S&P GICS",
     "rights": "All rights reserved."

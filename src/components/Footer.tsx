@@ -48,19 +48,22 @@ export function Footer({ dict }: { dict: Dictionary }) {
             </div>
           </div>
         )}
-        <div className="flex flex-col sm:flex-row items-center justify-between gap-3 pt-6 text-sm text-slate-500">
-          <p>© {year} DotKu Studio</p>
-          <p>
-            {dict.footer.gicsBefore}
-            <a
-              href="https://www.msci.com/our-solutions/indexes/gics"
-              target="_blank"
-              rel="noopener"
-              className="hover:text-brand-600"
-            >
-              {dict.footer.gicsLink}
-            </a>
-          </p>
+        <div className="pt-6 space-y-3 text-sm text-slate-500">
+          <p className="text-slate-600 font-medium">{dict.footer.parent}</p>
+          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
+            <p>© {year} JY Tech LLC · DotKu Studio</p>
+            <p>
+              {dict.footer.gicsBefore}
+              <a
+                href="https://www.msci.com/our-solutions/indexes/gics"
+                target="_blank"
+                rel="noopener"
+                className="hover:text-brand-600"
+              >
+                {dict.footer.gicsLink}
+              </a>
+            </p>
+          </div>
         </div>
       </div>
     </footer>

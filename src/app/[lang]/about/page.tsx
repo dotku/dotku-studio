@@ -42,6 +42,10 @@ export default async function AboutPage({ params }: Props) {
             <p className="mt-6 text-lg md:text-xl text-slate-600 leading-relaxed">
               {dict.about.sub}
             </p>
+            <p className="mt-4 inline-flex items-center gap-2 rounded-full border border-slate-300 bg-white/70 px-3 py-1 text-xs font-semibold text-slate-700">
+              <span className="h-1.5 w-1.5 rounded-full bg-brand-500" />
+              {dict.footer.parent}
+            </p>
           </div>
         </section>
 
