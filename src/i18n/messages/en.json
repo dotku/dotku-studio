@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "DotKu Studio — AI-Powered Business Solutions",
+    "description": "DotKu Studio — a San Francisco Bay Area studio delivering production AI, web and mobile solutions for enterprises across 9 industries. 865+ open-source repos, 30+ partner companies, 13+ years of experience."
+  },
+  "nav": {
+    "services": "Services",
+    "clients": "Clients",
+    "work": "Our Work",
+    "stats": "By the numbers",
+    "about": "About",
+    "contact": "Contact",
+    "repos": "Repositories →"
+  },
+  "about": {
+    "pageTitle": "About DotKu Studio",
+    "pageDescription": "DotKu Studio is a San Francisco Bay Area studio delivering AI-powered business solutions for enterprises across 9 industries.",
+    "eyebrow": "About us",
+    "heading": "A studio built for delivery",
+    "sub": "We're a compact, senior team that ships production software. Based in the San Francisco Bay Area, we work with enterprises worldwide — from Silicon Valley startups to established companies in Asia and North America.",
+    "missionHeading": "What we believe",
+    "missionBody": "Real products beat decks. Open-source beats black boxes. Long-term partnerships beat billable hours. We ship, we share what we learn, and we show up for clients across multiple release cycles."
+  },
+  "cta": {
+    "contact": "Schedule a consultation",
+    "quote": "Request a proposal"
+  },
+  "hero": {
+    "badge": "Now accepting new engagements",
+    "headlineLeft": "",
+    "headlineMid": "AI-powered",
+    "headlineRight": " business solutions, shipped.",
+    "body": "DotKu Studio is a San Francisco Bay Area studio that builds production-grade AI, web and mobile products for enterprises across media, tech, medical, supply chain and finance. We ship real products — and open-source what we learn along the way.",
+    "ctaProjects": "View our work",
+    "ctaPartners": "Meet our clients"
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "heading": "Custom solutions, shipped to production",
+    "sub": "From AI integrations to multilingual commerce platforms, we partner with companies to deliver software that actually ships.",
+    "learnMore": "Learn more",
+    "items": {
+      "ai": {
+        "title": "AI Integration & Custom LLMs",
+        "desc": "Production AI features, RAG pipelines, agent systems and custom model fine-tuning for enterprise use cases."
+      },
+      "enterprise": {
+        "title": "Enterprise Software Development",
+        "desc": "End-to-end product delivery: Next.js / React web apps, mobile, internal tools, CRM and backend platforms."
+      },
+      "global": {
+        "title": "Multilingual Portals & E-commerce",
+        "desc": "Global-ready business portals with URL-based i18n, SEO-optimized content, and integrated payments."
+      },
+      "advisory": {
+        "title": "Technical Advisory & Due Diligence",
+        "desc": "1:1 consulting, architectural reviews, M&A technical due diligence and hiring support."
+      }
+    }
+  },
+  "stats": {
+    "clients": "Partner companies",
+    "industries": "Industries served",
+    "repos": "Open-source projects",
+    "years": "Years of experience"
+  },
+  "partners": {
+    "eyebrow": "Clients & collaborations",
+    "heading": "Trusted across 9 industries",
+    "sub": "Long-term engagements — from Bay Area startups to established enterprises in China, Canada and the U.S.",
+    "tech": "Tech",
+    "media": "Media",
+    "medical": "Medical",
+    "supply": "Supply Chain",
+    "finance": "Finance",
+    "misc": "Fashion · Food · Resources · Education",
+    "tag": { "fashion": "Fashion", "food": "Food", "nature": "Nature", "edu": "Edu" }
+  },
+  "projects": {
+    "eyebrow": "Open source",
+    "heading": "Open-source footprint by GICS sector",
+    "subBefore": "865+ public repositories (forks marked 🔀) classified with the ",
+    "subLink": "Global Industry Classification Standard",
+    "subAfter": " — the taxonomy MSCI and S&P use for global equity markets. Use it as a map of where we've built.",
+    "browse": "Browse the full categorized list"
+  },
+  "sector": {
+    "it": { "name": "Information Technology", "desc": "Software, IT services, hardware and semiconductors. AI, LLM tools, Next.js apps, DevOps." },
+    "cd": { "name": "Consumer Discretionary", "desc": "Retail, apparel, restaurants, travel, education and consumer services." },
+    "ind": { "name": "Industrials", "desc": "Capital goods, transportation & logistics, commercial and professional services." },
+    "com": { "name": "Communication Services", "desc": "Media, entertainment, telecom, interactive media and social platforms." },
+    "fin": { "name": "Financials", "desc": "Fintech, crypto, payments, trading and accounting tools." },
+    "hc": { "name": "Health Care", "desc": "Medical devices, telehealth, lab testing, clinics and wellness apps." },
+    "en": { "name": "Energy", "desc": "Solar, portable power (Carku) and energy-infrastructure tooling." },
+    "cs": { "name": "Consumer Staples", "desc": "Food & beverage demos." },
+    "re": { "name": "Real Estate", "desc": "SF Bay Area appraisal & property tools." }
+  },
+  "sub": {
+    "it": { "app": "Application SW", "infra": "Internet Infra", "sys": "Systems SW" },
+    "cd": { "retail": "Retail", "services": "Services", "apparel": "Apparel" },
+    "ind": { "prof": "Prof. Services", "cap": "Capital Goods", "trans": "Transport" },
+    "com": { "interactive": "Interactive", "media": "Media", "telecom": "Telecom" },
+    "fin": { "services": "Fin. Services" },
+    "hc": { "equip": "Equip. & Services", "bio": "Biotech" }
+  },
+  "featured": {
+    "eyebrow": "Selected work",
+    "heading": "Case studies & featured projects",
+    "sub": "A selection of the products we've shipped with partners — each one is open-source so you can inspect the craft.",
+    "projects": {
+      "video2text": "Extract speech and visual content from videos into text — used in production.",
+      "sienovo": "International business portal built with Next.js and MDX.",
+      "crm": "A lightweight CRM focused on business development and referrals.",
+      "hippa": "HIPAA-considerate chat demo for medical use cases.",
+      "mcn": "Multi-Channel Network tooling for creators in the Bay Area.",
+      "search": "Next.js 15 + TypeScript search aggregator across multiple platforms."
+    }
+  },
+  "team": {
+    "eyebrow": "Leadership",
+    "heading": "Meet the team",
+    "sub": "A tight-knit team that spans engineering, product delivery and global sales.",
+    "members": {
+      "jay": { "role": "Founder & Technical Lead" },
+      "leo": { "role": "Co-founder & Head of Global Sales" }
+    },
+    "wechatLabel": "WeChat"
+  },
+  "contact": {
+    "heading": "Let's discuss your project",
+    "body": "Working on a product idea, looking for a delivery partner, or want to talk about AI in your industry? We'd love to hear from you.",
+    "email": "Email us",
+    "repos": "Browse repositories"
+  },
+  "footer": {
+    "tagline": "AI-powered business solutions, shipped.",
+    "gicsBefore": "Open-source footprint classified using ",
+    "gicsLink": "MSCI / S&P GICS",
+    "rights": "All rights reserved."
+  },
+  "repos": {
+    "pageTitle": "DotKu Studio — Open-source Footprint by GICS Sector",
+    "pageDescription": "865+ public repositories under github.com/dotku (forks marked 🔀), classified with the Global Industry Classification Standard (GICS).",
+    "heroEyebrow": "Open source · GitHub",
+    "heroHeadingPrefix": "Repositories by ",
+    "heroHeadingAccent": "GICS Sector",
+    "heroSubBefore": "865+ public repositories under ",
+    "heroSubMid": ", classified with the ",
+    "heroSubAfter": " — Sector → Industry Group → Industry.",
+    "filterPlaceholder": "Filter repositories by name or description…",
+    "backHome": "← Home",
+    "pageHeading": "GitHub Repositories by GICS Classification",
+    "overviewHeading": "Overview",
+    "noMatch": "No repositories match your filter."
+  },
+  "table": { "sector": "Sector", "group": "Industry Group", "count": "# Repos", "total": "Total" }
+}

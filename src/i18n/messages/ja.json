@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "DotKu Studio — AI を活用したビジネスソリューション",
+    "description": "DotKu Studio — サンフランシスコ・ベイエリアのスタジオ。9 業種の企業顧客に本番水準の AI・Web・モバイルプロダクトを提供。865+ のオープンソースプロジェクト、30+ のエンタープライズ顧客、13+ 年の実績。"
+  },
+  "nav": {
+    "services": "サービス",
+    "clients": "顧客",
+    "work": "作品",
+    "stats": "数字で見る",
+    "about": "私たちについて",
+    "contact": "お問い合わせ",
+    "repos": "リポジトリ →"
+  },
+  "about": {
+    "pageTitle": "DotKu Studio について",
+    "pageDescription": "DotKu Studio は 9 業界の企業向けに AI を活用したビジネスソリューションを届けるサンフランシスコ・ベイエリアのスタジオです。",
+    "eyebrow": "私たちについて",
+    "heading": "デリバリーのために生まれたスタジオ",
+    "sub": "少数精鋭のシニアチームで、本番運用のソフトウェアをリリースし続けています。サンフランシスコ・ベイエリアを拠点に、シリコンバレーのスタートアップからアジア・北米の大手企業まで、世界中の企業顧客と協業します。",
+    "missionHeading": "私たちが信じること",
+    "missionBody": "実プロダクトは資料に勝る。オープンソースはブラックボックスに勝る。長期的パートナーシップは時間請求に勝る。届け、学びを共有し、複数リリースを通じて顧客に寄り添います。"
+  },
+  "cta": {
+    "contact": "無料相談を予約",
+    "quote": "提案書を依頼"
+  },
+  "hero": {
+    "badge": "新規案件を受付中",
+    "headlineLeft": "",
+    "headlineMid": "AI を活用した",
+    "headlineRight": "ビジネスソリューションを本番へ。",
+    "body": "DotKu Studio はメディア・テック・医療・サプライチェーン・金融など多様な業界の企業向けに、本番水準の AI・Web・モバイルプロダクトを作るサンフランシスコ・ベイエリアのスタジオです。実際のプロダクトを届け、学びはオープンソースで公開しています。",
+    "ctaProjects": "作品を見る",
+    "ctaPartners": "顧客事例"
+  },
+  "services": {
+    "eyebrow": "提供サービス",
+    "heading": "オーダーメイド、本番品質で",
+    "sub": "AI 統合から多言語 EC プラットフォームまで、企業と並走して実際にリリースされるソフトウェアを届けます。",
+    "learnMore": "詳しく見る",
+    "items": {
+      "ai": {
+        "title": "AI 統合 & カスタム LLM",
+        "desc": "企業向け本番 AI 機能、RAG パイプライン、エージェントシステム、モデルのファインチューニング。"
+      },
+      "enterprise": {
+        "title": "エンタープライズソフトウェア開発",
+        "desc": "エンドツーエンドのプロダクト提供：Next.js / React Web アプリ、モバイル、社内ツール、CRM、バックエンド。"
+      },
+      "global": {
+        "title": "多言語ポータル & EC",
+        "desc": "URL 駆動 i18n、SEO 最適化、決済統合を備えたグローバル対応のビジネスポータル。"
+      },
+      "advisory": {
+        "title": "技術顧問 & デューデリジェンス",
+        "desc": "1:1 コンサルティング、アーキテクチャレビュー、M&A 技術 DD、採用支援。"
+      }
+    }
+  },
+  "stats": {
+    "clients": "エンタープライズ顧客",
+    "industries": "対応業界",
+    "repos": "オープンソースプロジェクト",
+    "years": "業界経験"
+  },
+  "partners": {
+    "eyebrow": "顧客 & コラボ",
+    "heading": "9 業界で信頼されるパートナー",
+    "sub": "長期的な関係 — ベイエリアのスタートアップから中国・カナダ・米国の大手企業まで。",
+    "tech": "テック",
+    "media": "メディア",
+    "medical": "医療",
+    "supply": "サプライチェーン",
+    "finance": "金融",
+    "misc": "ファッション · 食品 · 資源 · 教育",
+    "tag": { "fashion": "ファッション", "food": "食品", "nature": "資源", "edu": "教育" }
+  },
+  "projects": {
+    "eyebrow": "オープンソース",
+    "heading": "GICS セクター別のオープンソース足跡",
+    "subBefore": "865+ の公開リポジトリ（フォークは 🔀）を ",
+    "subLink": "Global Industry Classification Standard",
+    "subAfter": " で分類 — MSCI と S&P がグローバル株式市場に用いる分類体系です。我々が手がけてきた領域のマップとしてご覧ください。",
+    "browse": "分類済み一覧を見る"
+  },
+  "sector": {
+    "it": { "name": "情報技術", "desc": "ソフトウェア、IT サービス、ハードウェア、半導体。AI、LLM ツール、Next.js アプリ、DevOps。" },
+    "cd": { "name": "一般消費財", "desc": "小売、アパレル、飲食、旅行、教育、消費者サービス。" },
+    "ind": { "name": "資本財", "desc": "資本財、運輸・物流、商業・専門サービス。" },
+    "com": { "name": "コミュニケーションサービス", "desc": "メディア、エンタメ、通信、インタラクティブメディア、ソーシャル。" },
+    "fin": { "name": "金融", "desc": "フィンテック、暗号資産、決済、取引、会計ツール。" },
+    "hc": { "name": "ヘルスケア", "desc": "医療機器、遠隔医療、検査、クリニック、ウェルネス。" },
+    "en": { "name": "エネルギー", "desc": "太陽光、ポータブル電源 (Carku)、エネルギーインフラ。" },
+    "cs": { "name": "生活必需品", "desc": "食品・飲料デモ。" },
+    "re": { "name": "不動産", "desc": "ベイエリアの鑑定・不動産ツール。" }
+  },
+  "sub": {
+    "it": { "app": "アプリケーション SW", "infra": "インターネットインフラ", "sys": "システム SW" },
+    "cd": { "retail": "小売", "services": "サービス", "apparel": "アパレル" },
+    "ind": { "prof": "専門サービス", "cap": "資本財", "trans": "運輸" },
+    "com": { "interactive": "インタラクティブ", "media": "メディア", "telecom": "通信" },
+    "fin": { "services": "金融サービス" },
+    "hc": { "equip": "機器・サービス", "bio": "バイオ" }
+  },
+  "featured": {
+    "eyebrow": "主な作品",
+    "heading": "事例 & 注目プロジェクト",
+    "sub": "パートナーと届けたプロダクトから抜粋 — すべてオープンソースなので、制作の中身までご確認いただけます。",
+    "projects": {
+      "video2text": "動画から音声と視覚情報をテキスト化 — 本番利用中。",
+      "sienovo": "Next.js と MDX で構築した国際ビジネスポータル。",
+      "crm": "事業開発・リファラルに特化した軽量 CRM。",
+      "hippa": "HIPAA を考慮した医療向けチャットデモ。",
+      "mcn": "ベイエリアのクリエイター向け MCN ツール。",
+      "search": "Next.js 15 + TypeScript のマルチプラットフォーム検索アグリゲーター。"
+    }
+  },
+  "team": {
+    "eyebrow": "リーダーシップ",
+    "heading": "チーム紹介",
+    "sub": "エンジニアリング・プロダクトデリバリ・グローバルセールスをカバーする少数精鋭のチーム。",
+    "members": {
+      "jay": { "role": "創業者 & 技術責任者" },
+      "leo": { "role": "共同創業者 & グローバルセールス責任者" }
+    },
+    "wechatLabel": "WeChat"
+  },
+  "contact": {
+    "heading": "プロジェクトのご相談はこちら",
+    "body": "プロダクトのアイデア、デリバリーパートナーをお探し、業界における AI 活用のご相談など、お気軽にご連絡ください。",
+    "email": "メールを送る",
+    "repos": "リポジトリを見る"
+  },
+  "footer": {
+    "tagline": "AI を活用したビジネスソリューションを本番へ。",
+    "gicsBefore": "オープンソース足跡は ",
+    "gicsLink": "MSCI / S&P GICS",
+    "rights": "All rights reserved."
+  },
+  "repos": {
+    "pageTitle": "DotKu Studio — GICS セクター別オープンソース足跡",
+    "pageDescription": "github.com/dotku の公開リポジトリ 865+ 件（フォークは 🔀）を、Global Industry Classification Standard (GICS) で分類。",
+    "heroEyebrow": "オープンソース · GitHub",
+    "heroHeadingPrefix": "",
+    "heroHeadingAccent": "GICS セクター",
+    "heroSubBefore": "",
+    "heroSubMid": " の公開リポジトリ 865+ 件（フォークは 🔀）を ",
+    "heroSubAfter": " で分類 — セクター → 産業グループ → 産業。",
+    "filterPlaceholder": "名前や説明で絞り込み…",
+    "backHome": "← ホーム",
+    "pageHeading": "GICS 分類別 GitHub リポジトリ",
+    "overviewHeading": "概要",
+    "noMatch": "該当するリポジトリがありません。"
+  },
+  "table": { "sector": "セクター", "group": "産業グループ", "count": "リポ数", "total": "合計" }
+}

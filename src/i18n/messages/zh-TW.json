@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "DotKu Studio — AI 驅動的商業解決方案",
+    "description": "DotKu Studio — 舊金山灣區工作室，為 9 大產業企業交付生產級 AI、Web 與行動產品。865+ 開源專案、30+ 企業客戶、13+ 年經驗"
+  },
+  "nav": {
+    "services": "服務",
+    "clients": "客戶",
+    "work": "作品",
+    "stats": "數據概覽",
+    "about": "關於我們",
+    "contact": "聯絡我們",
+    "repos": "儲存庫 →"
+  },
+  "about": {
+    "pageTitle": "關於 DotKu Studio",
+    "pageDescription": "DotKu Studio 是一家位於舊金山灣區的工作室，為 9 大產業的企業交付 AI 驅動的商業解決方案",
+    "eyebrow": "關於我們",
+    "heading": "為交付而生的工作室",
+    "sub": "我們是一支精實、資深的團隊，專注於交付生產級軟體。總部位於舊金山灣區，服務全球企業客戶——從矽谷新創到亞洲與北美的成熟企業",
+    "missionHeading": "我們相信",
+    "missionBody": "真實產品勝過簡報；開源勝過黑盒子；長期合作勝過按時計費。我們交付、開源、陪伴客戶走過多個發布週期。"
+  },
+  "cta": {
+    "contact": "預約諮詢",
+    "quote": "申請提案"
+  },
+  "hero": {
+    "badge": "正在承接新專案",
+    "headlineLeft": "",
+    "headlineMid": "AI 驅動",
+    "headlineRight": "的商業解決方案，交付上線",
+    "body": "DotKu Studio 是一家位於舊金山灣區的工作室，為媒體、科技、醫療、供應鏈、金融等產業的企業客戶打造生產級 AI、Web 與行動產品。我們交付真實產品，並將累積的經驗開源分享。",
+    "ctaProjects": "查看作品",
+    "ctaPartners": "合作客戶"
+  },
+  "services": {
+    "eyebrow": "我們能做什麼",
+    "heading": "量身打造，直達生產",
+    "sub": "從 AI 整合到多語系商業入口，我們與企業並肩交付真正能上線的產品",
+    "learnMore": "了解更多",
+    "items": {
+      "ai": {
+        "title": "AI 整合 & 客製 LLM",
+        "desc": "面向企業的生產級 AI 功能、RAG 管線、智能代理系統與客製模型微調"
+      },
+      "enterprise": {
+        "title": "企業軟體開發",
+        "desc": "端到端產品交付：Next.js / React Web 應用、行動端、內部工具、CRM 與後端平台"
+      },
+      "global": {
+        "title": "多語系入口 & 電商",
+        "desc": "URL 驅動 i18n、SEO 優化內容、整合金流的全球化商業入口"
+      },
+      "advisory": {
+        "title": "技術顧問 & 盡職調查",
+        "desc": "1:1 諮詢、架構評審、併購技術盡調與技術招募支援"
+      }
+    }
+  },
+  "stats": {
+    "clients": "企業客戶",
+    "industries": "服務產業",
+    "repos": "開源專案",
+    "years": "產業經驗"
+  },
+  "partners": {
+    "eyebrow": "客戶 & 合作",
+    "heading": "9 大產業的信賴之選",
+    "sub": "長期合作關係——從灣區新創公司到中國、加拿大和美國的成熟企業",
+    "tech": "科技",
+    "media": "媒體",
+    "medical": "醫療",
+    "supply": "供應鏈",
+    "finance": "金融",
+    "misc": "時尚 · 食品 · 資源 · 教育",
+    "tag": { "fashion": "時尚", "food": "食品", "nature": "資源", "edu": "教育" }
+  },
+  "projects": {
+    "eyebrow": "開源",
+    "heading": "按 GICS 產業分類的開源版圖",
+    "subBefore": "865+ 個公開儲存庫（fork 以 🔀 標記），使用 ",
+    "subLink": "全球行業分類標準 (GICS)",
+    "subAfter": " 分類——MSCI 與 S&P 用於全球股票市場的分類體系。這是我們所涵蓋領域的一張地圖。",
+    "browse": "查看完整分類列表"
+  },
+  "sector": {
+    "it": { "name": "資訊技術", "desc": "軟體、IT 服務、硬體與半導體。AI、LLM 工具、Next.js 應用、DevOps" },
+    "cd": { "name": "非必需消費品", "desc": "零售、服飾、餐飲、旅遊、教育與消費者服務" },
+    "ind": { "name": "工業", "desc": "資本財、運輸物流、商業與專業服務" },
+    "com": { "name": "通訊服務", "desc": "媒體、娛樂、電信、互動媒體與社群平台" },
+    "fin": { "name": "金融", "desc": "Fintech、加密貨幣、支付、交易與會計工具" },
+    "hc": { "name": "醫療保健", "desc": "醫療器材、遠距醫療、檢驗、診所與健康應用" },
+    "en": { "name": "能源", "desc": "太陽能、行動電源 (Carku) 及能源基礎設施工具" },
+    "cs": { "name": "必需消費品", "desc": "食品與飲料示範專案" },
+    "re": { "name": "房地產", "desc": "灣區估價與不動產工具" }
+  },
+  "sub": {
+    "it": { "app": "應用軟體", "infra": "網際網路基礎設施", "sys": "系統軟體" },
+    "cd": { "retail": "零售", "services": "服務", "apparel": "服飾" },
+    "ind": { "prof": "專業服務", "cap": "資本財", "trans": "運輸" },
+    "com": { "interactive": "互動媒體", "media": "媒體", "telecom": "電信" },
+    "fin": { "services": "金融服務" },
+    "hc": { "equip": "設備與服務", "bio": "生物科技" }
+  },
+  "featured": {
+    "eyebrow": "精選作品",
+    "heading": "案例研究與精選專案",
+    "sub": "我們與客戶共同交付的部分產品——全部開源，歡迎深入了解",
+    "projects": {
+      "video2text": "從影片中擷取語音與視覺內容為文字——已用於正式生產",
+      "sienovo": "使用 Next.js 與 MDX 打造的國際商業入口網站",
+      "crm": "聚焦業務開發與推薦的輕量級 CRM 系統",
+      "hippa": "面向醫療場景、考量 HIPAA 合規的聊天 Demo",
+      "mcn": "面向灣區創作者的多頻道網路 (MCN) 工具",
+      "search": "基於 Next.js 15 + TypeScript 的跨平台搜尋聚合器"
+    }
+  },
+  "team": {
+    "eyebrow": "團隊",
+    "heading": "認識團隊",
+    "sub": "一支緊密協作的團隊，涵蓋工程、產品交付與全球業務",
+    "members": {
+      "jay": { "role": "創辦人 & 技術負責人" },
+      "leo": { "role": "共同創辦人 & 全球業務負責人" }
+    },
+    "wechatLabel": "微信"
+  },
+  "contact": {
+    "heading": "聊聊您的專案",
+    "body": "有產品想法、需要交付夥伴，或想探討 AI 在您產業的應用？歡迎聯絡我們。",
+    "email": "寄信給我們",
+    "repos": "瀏覽儲存庫"
+  },
+  "footer": {
+    "tagline": "AI 驅動的商業解決方案，交付上線",
+    "gicsBefore": "開源版圖依據 ",
+    "gicsLink": "MSCI / S&P GICS",
+    "rights": "保留所有權利"
+  },
+  "repos": {
+    "pageTitle": "DotKu Studio — 按 GICS 產業分類的開源版圖",
+    "pageDescription": "github.com/dotku 下 865+ 個公開儲存庫（fork 以 🔀 標記），使用全球行業分類標準 (GICS) 分類",
+    "heroEyebrow": "開源 · GitHub",
+    "heroHeadingPrefix": "按 ",
+    "heroHeadingAccent": "GICS 產業",
+    "heroSubBefore": "",
+    "heroSubMid": " 下 865+ 個公開儲存庫（fork 以 🔀 標記），使用 ",
+    "heroSubAfter": " 分類 — 板塊 → 行業組 → 細分行業",
+    "filterPlaceholder": "按名稱或描述過濾儲存庫…",
+    "backHome": "← 返回首頁",
+    "pageHeading": "按 GICS 分類的 GitHub 儲存庫",
+    "overviewHeading": "概覽",
+    "noMatch": "沒有符合的儲存庫"
+  },
+  "table": { "sector": "板塊", "group": "行業組", "count": "儲存庫數", "total": "合計" }
+}

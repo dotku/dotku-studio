@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "DotKu Studio — Soluciones de negocio con IA",
+    "description": "DotKu Studio — estudio del Área de la Bahía de San Francisco que entrega soluciones de IA, web y móviles para empresas en 9 industrias. 865+ proyectos open source, 30+ clientes enterprise, 13+ años de experiencia."
+  },
+  "nav": {
+    "services": "Servicios",
+    "clients": "Clientes",
+    "work": "Proyectos",
+    "stats": "En números",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "repos": "Repositorios →"
+  },
+  "about": {
+    "pageTitle": "Sobre DotKu Studio",
+    "pageDescription": "DotKu Studio es un estudio del Área de la Bahía de San Francisco que entrega soluciones de negocio con IA para empresas en 9 industrias.",
+    "eyebrow": "Sobre nosotros",
+    "heading": "Un estudio hecho para entregar",
+    "sub": "Somos un equipo compacto y senior que envía software de producción. Con base en el Área de la Bahía de San Francisco, trabajamos con empresas en todo el mundo — desde startups de Silicon Valley hasta compañías consolidadas en Asia y Norteamérica.",
+    "missionHeading": "En qué creemos",
+    "missionBody": "Productos reales vencen a presentaciones. El código abierto vence a las cajas negras. Las relaciones a largo plazo vencen a las horas facturables. Entregamos, compartimos lo que aprendemos y acompañamos a nuestros clientes a lo largo de múltiples ciclos de release."
+  },
+  "cta": {
+    "contact": "Agendar consulta",
+    "quote": "Solicitar propuesta"
+  },
+  "hero": {
+    "badge": "Aceptando nuevos proyectos",
+    "headlineLeft": "Soluciones de negocio ",
+    "headlineMid": "impulsadas por IA",
+    "headlineRight": ", entregadas en producción.",
+    "body": "DotKu Studio es un estudio del Área de la Bahía de San Francisco que construye productos de IA, web y móviles de nivel producción para empresas en medios, tecnología, salud, cadena de suministro y finanzas. Entregamos productos reales y abrimos el código de lo que aprendemos.",
+    "ctaProjects": "Ver nuestro trabajo",
+    "ctaPartners": "Conocer clientes"
+  },
+  "services": {
+    "eyebrow": "Qué hacemos",
+    "heading": "Soluciones a medida, en producción",
+    "sub": "Desde integraciones de IA hasta plataformas de comercio multilingüe, acompañamos a las empresas para entregar software que realmente sale al mercado.",
+    "learnMore": "Saber más",
+    "items": {
+      "ai": {
+        "title": "Integración de IA & LLMs personalizados",
+        "desc": "Funciones de IA en producción, pipelines RAG, sistemas de agentes y fine-tuning de modelos para casos empresariales."
+      },
+      "enterprise": {
+        "title": "Desarrollo de software empresarial",
+        "desc": "Entrega de producto end-to-end: apps web Next.js/React, móvil, herramientas internas, CRM y plataformas backend."
+      },
+      "global": {
+        "title": "Portales multilingües & e-commerce",
+        "desc": "Portales globales con i18n basado en URL, contenido optimizado para SEO y pagos integrados."
+      },
+      "advisory": {
+        "title": "Asesoría técnica & due diligence",
+        "desc": "Consultoría 1:1, revisiones arquitectónicas, due diligence técnica en M&A y apoyo en contratación."
+      }
+    }
+  },
+  "stats": {
+    "clients": "Clientes enterprise",
+    "industries": "Industrias atendidas",
+    "repos": "Proyectos open source",
+    "years": "Años de experiencia"
+  },
+  "partners": {
+    "eyebrow": "Clientes y colaboraciones",
+    "heading": "De confianza en 9 industrias",
+    "sub": "Relaciones a largo plazo — desde startups del Área de la Bahía hasta empresas consolidadas en China, Canadá y EE. UU.",
+    "tech": "Tecnología",
+    "media": "Medios",
+    "medical": "Salud",
+    "supply": "Cadena de suministro",
+    "finance": "Finanzas",
+    "misc": "Moda · Alimentos · Recursos · Educación",
+    "tag": { "fashion": "Moda", "food": "Comida", "nature": "Recursos", "edu": "Edu" }
+  },
+  "projects": {
+    "eyebrow": "Código abierto",
+    "heading": "Huella open source por sector GICS",
+    "subBefore": "865+ repos públicos (forks marcados con 🔀) clasificados con el ",
+    "subLink": "Global Industry Classification Standard",
+    "subAfter": " — la taxonomía que MSCI y S&P usan para los mercados de renta variable globales. Un mapa de donde hemos construido.",
+    "browse": "Ver la lista completa clasificada"
+  },
+  "sector": {
+    "it": { "name": "Tecnología de la información", "desc": "Software, servicios TI, hardware y semiconductores. IA, herramientas LLM, apps Next.js, DevOps." },
+    "cd": { "name": "Consumo discrecional", "desc": "Retail, ropa, restaurantes, viajes, educación y servicios al consumidor." },
+    "ind": { "name": "Industriales", "desc": "Bienes de capital, transporte y logística, servicios comerciales y profesionales." },
+    "com": { "name": "Servicios de comunicación", "desc": "Medios, entretenimiento, telecom, medios interactivos y plataformas sociales." },
+    "fin": { "name": "Financieros", "desc": "Fintech, cripto, pagos, trading y contabilidad." },
+    "hc": { "name": "Salud", "desc": "Dispositivos médicos, telesalud, pruebas de laboratorio, clínicas y bienestar." },
+    "en": { "name": "Energía", "desc": "Solar, energía portátil (Carku) e infraestructura energética." },
+    "cs": { "name": "Consumo básico", "desc": "Demos de alimentos y bebidas." },
+    "re": { "name": "Inmobiliario", "desc": "Valoración y herramientas inmobiliarias del Área de la Bahía." }
+  },
+  "sub": {
+    "it": { "app": "Software de aplicación", "infra": "Infra. Internet", "sys": "Software de sistemas" },
+    "cd": { "retail": "Retail", "services": "Servicios", "apparel": "Ropa" },
+    "ind": { "prof": "Serv. prof.", "cap": "Bienes de capital", "trans": "Transporte" },
+    "com": { "interactive": "Interactivo", "media": "Medios", "telecom": "Telecom" },
+    "fin": { "services": "Serv. financieros" },
+    "hc": { "equip": "Equipo y servicios", "bio": "Biotec" }
+  },
+  "featured": {
+    "eyebrow": "Trabajo seleccionado",
+    "heading": "Casos de estudio y proyectos destacados",
+    "sub": "Una selección de los productos que hemos entregado con socios — todo open source, para que inspecciones el trabajo.",
+    "projects": {
+      "video2text": "Extrae audio y contenido visual de videos a texto — usado en producción.",
+      "sienovo": "Portal internacional de negocio construido con Next.js y MDX.",
+      "crm": "CRM ligero enfocado en desarrollo de negocio y referidos.",
+      "hippa": "Demo de chat con consideración HIPAA para casos médicos.",
+      "mcn": "Herramientas Multi-Channel Network para creadores del Área de la Bahía.",
+      "search": "Agregador de búsqueda Next.js 15 + TypeScript multi-plataforma."
+    }
+  },
+  "team": {
+    "eyebrow": "Liderazgo",
+    "heading": "Conoce al equipo",
+    "sub": "Un equipo compacto que cubre ingeniería, entrega de producto y ventas globales.",
+    "members": {
+      "jay": { "role": "Fundador y Líder Técnico" },
+      "leo": { "role": "Cofundador y Head of Global Sales" }
+    },
+    "wechatLabel": "WeChat"
+  },
+  "contact": {
+    "heading": "Hablemos de tu proyecto",
+    "body": "¿Tienes una idea de producto, buscas un socio de entrega o quieres hablar de IA en tu industria? Nos encantaría saber de ti.",
+    "email": "Escríbenos",
+    "repos": "Ver repositorios"
+  },
+  "footer": {
+    "tagline": "Soluciones de negocio con IA, entregadas.",
+    "gicsBefore": "Huella open source clasificada con ",
+    "gicsLink": "MSCI / S&P GICS",
+    "rights": "Todos los derechos reservados."
+  },
+  "repos": {
+    "pageTitle": "DotKu Studio — Huella open source por sector GICS",
+    "pageDescription": "865+ repositorios públicos en github.com/dotku (forks marcados con 🔀), clasificados con el Global Industry Classification Standard (GICS).",
+    "heroEyebrow": "Open source · GitHub",
+    "heroHeadingPrefix": "Repositorios por ",
+    "heroHeadingAccent": "sector GICS",
+    "heroSubBefore": "865+ repositorios públicos en ",
+    "heroSubMid": ", clasificados con el ",
+    "heroSubAfter": " — Sector → Grupo industrial → Industria.",
+    "filterPlaceholder": "Filtrar por nombre o descripción…",
+    "backHome": "← Inicio",
+    "pageHeading": "Repositorios de GitHub por clasificación GICS",
+    "overviewHeading": "Resumen",
+    "noMatch": "Ningún repositorio coincide con tu filtro."
+  },
+  "table": { "sector": "Sector", "group": "Grupo industrial", "count": "# Repos", "total": "Total" }
+}

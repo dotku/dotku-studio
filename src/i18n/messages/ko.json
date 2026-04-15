@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "DotKu Studio — AI 기반 비즈니스 솔루션",
+    "description": "DotKu Studio — 샌프란시스코 베이 에어리어 스튜디오. 9개 산업 기업 고객을 위한 프로덕션 AI·웹·모바일 제품 전달. 865+ 오픈소스 프로젝트, 30+ 엔터프라이즈 고객, 13+ 년 경력."
+  },
+  "nav": {
+    "services": "서비스",
+    "clients": "고객",
+    "work": "작업",
+    "stats": "숫자로 보기",
+    "about": "회사 소개",
+    "contact": "문의",
+    "repos": "저장소 →"
+  },
+  "about": {
+    "pageTitle": "DotKu Studio 소개",
+    "pageDescription": "DotKu Studio는 9개 산업의 기업을 위한 AI 기반 비즈니스 솔루션을 전달하는 샌프란시스코 베이 에어리어 스튜디오입니다.",
+    "eyebrow": "회사 소개",
+    "heading": "배포를 위해 만든 스튜디오",
+    "sub": "우리는 실제 프로덕션 소프트웨어를 출시하는 소수 정예 시니어 팀입니다. 샌프란시스코 베이 에어리어를 기반으로, 실리콘밸리 스타트업부터 아시아와 북미의 주요 기업까지 전 세계 엔터프라이즈 고객과 협력합니다.",
+    "missionHeading": "우리의 철학",
+    "missionBody": "실제 제품은 장표를 이깁니다. 오픈소스는 블랙박스를 이깁니다. 장기적 파트너십은 시간제 청구를 이깁니다. 우리는 배포하고, 배운 것을 공유하며, 여러 릴리스 사이클 동안 고객 곁에 머뭅니다."
+  },
+  "cta": {
+    "contact": "상담 예약",
+    "quote": "제안 요청"
+  },
+  "hero": {
+    "badge": "새로운 프로젝트를 받고 있습니다",
+    "headlineLeft": "",
+    "headlineMid": "AI 기반",
+    "headlineRight": " 비즈니스 솔루션을 프로덕션까지.",
+    "body": "DotKu Studio는 미디어·테크·의료·공급망·금융 등 여러 산업의 기업 고객을 위해 프로덕션 수준의 AI·웹·모바일 제품을 만드는 샌프란시스코 베이 에어리어 스튜디오입니다. 실제 제품을 배포하고, 그 과정에서 배운 것을 오픈소스로 공개합니다.",
+    "ctaProjects": "작업 보기",
+    "ctaPartners": "고객사 보기"
+  },
+  "services": {
+    "eyebrow": "제공 서비스",
+    "heading": "맞춤 솔루션, 프로덕션 수준으로",
+    "sub": "AI 통합부터 다국어 커머스 플랫폼까지, 기업과 함께 실제 출시되는 소프트웨어를 전달합니다.",
+    "learnMore": "자세히 보기",
+    "items": {
+      "ai": {
+        "title": "AI 통합 & 커스텀 LLM",
+        "desc": "엔터프라이즈용 프로덕션 AI 기능, RAG 파이프라인, 에이전트 시스템, 커스텀 모델 파인튜닝."
+      },
+      "enterprise": {
+        "title": "엔터프라이즈 소프트웨어 개발",
+        "desc": "엔드투엔드 제품 전달: Next.js / React 웹앱, 모바일, 내부 툴, CRM, 백엔드 플랫폼."
+      },
+      "global": {
+        "title": "다국어 포털 & 이커머스",
+        "desc": "URL 기반 i18n, SEO 최적화 콘텐츠, 결제 통합을 갖춘 글로벌 비즈니스 포털."
+      },
+      "advisory": {
+        "title": "기술 자문 & 실사",
+        "desc": "1:1 컨설팅, 아키텍처 리뷰, M&A 기술 실사, 채용 지원."
+      }
+    }
+  },
+  "stats": {
+    "clients": "엔터프라이즈 고객",
+    "industries": "서비스 산업",
+    "repos": "오픈소스 프로젝트",
+    "years": "업계 경력"
+  },
+  "partners": {
+    "eyebrow": "고객 & 협력",
+    "heading": "9개 산업에서 신뢰받는 파트너",
+    "sub": "장기적 관계 — 베이 에어리어 스타트업부터 중국·캐나다·미국의 대기업까지.",
+    "tech": "기술",
+    "media": "미디어",
+    "medical": "의료",
+    "supply": "공급망",
+    "finance": "금융",
+    "misc": "패션 · 식품 · 자원 · 교육",
+    "tag": { "fashion": "패션", "food": "식품", "nature": "자원", "edu": "교육" }
+  },
+  "projects": {
+    "eyebrow": "오픈소스",
+    "heading": "GICS 섹터별 오픈소스 발자취",
+    "subBefore": "865+개의 공개 저장소(포크는 🔀)를 ",
+    "subLink": "Global Industry Classification Standard",
+    "subAfter": "로 분류했습니다 — MSCI와 S&P가 글로벌 주식시장에 사용하는 분류 체계입니다. 우리가 작업해 온 영역의 지도라고 보시면 됩니다.",
+    "browse": "전체 분류 목록 보기"
+  },
+  "sector": {
+    "it": { "name": "정보기술", "desc": "소프트웨어, IT 서비스, 하드웨어, 반도체. AI, LLM 도구, Next.js 앱, DevOps." },
+    "cd": { "name": "경기소비재", "desc": "리테일, 의류, 레스토랑, 여행, 교육, 소비자 서비스." },
+    "ind": { "name": "산업재", "desc": "자본재, 운송·물류, 상업·전문 서비스." },
+    "com": { "name": "커뮤니케이션 서비스", "desc": "미디어, 엔터테인먼트, 통신, 인터랙티브 미디어 및 소셜 플랫폼." },
+    "fin": { "name": "금융", "desc": "핀테크, 암호화폐, 결제, 트레이딩, 회계 도구." },
+    "hc": { "name": "헬스케어", "desc": "의료기기, 원격의료, 검사, 클리닉 및 웰니스 앱." },
+    "en": { "name": "에너지", "desc": "태양광, 휴대용 전원 (Carku), 에너지 인프라 도구." },
+    "cs": { "name": "필수소비재", "desc": "식음료 데모." },
+    "re": { "name": "부동산", "desc": "베이 에어리어 감정·부동산 도구." }
+  },
+  "sub": {
+    "it": { "app": "응용 SW", "infra": "인터넷 인프라", "sys": "시스템 SW" },
+    "cd": { "retail": "리테일", "services": "서비스", "apparel": "의류" },
+    "ind": { "prof": "전문 서비스", "cap": "자본재", "trans": "운송" },
+    "com": { "interactive": "인터랙티브", "media": "미디어", "telecom": "통신" },
+    "fin": { "services": "금융 서비스" },
+    "hc": { "equip": "장비·서비스", "bio": "바이오텍" }
+  },
+  "featured": {
+    "eyebrow": "선별된 작업",
+    "heading": "사례 연구 & 주요 프로젝트",
+    "sub": "파트너와 함께 출시한 제품들의 일부 — 모두 오픈소스로 작업 과정을 확인하실 수 있습니다.",
+    "projects": {
+      "video2text": "영상에서 음성과 시각 콘텐츠를 텍스트로 추출 — 실서비스에 사용 중.",
+      "sienovo": "Next.js와 MDX로 만든 국제 비즈니스 포털.",
+      "crm": "비즈니스 개발과 추천에 집중한 경량 CRM.",
+      "hippa": "HIPAA를 고려한 의료 챗 데모.",
+      "mcn": "베이 에어리어 크리에이터를 위한 MCN 도구.",
+      "search": "Next.js 15 + TypeScript 기반 멀티 플랫폼 검색 집계기."
+    }
+  },
+  "team": {
+    "eyebrow": "리더십",
+    "heading": "팀 소개",
+    "sub": "엔지니어링·제품 전달·글로벌 세일즈를 아우르는 긴밀한 팀입니다.",
+    "members": {
+      "jay": { "role": "창업자 & 기술 총괄" },
+      "leo": { "role": "공동창업자 & 글로벌 세일즈 총괄" }
+    },
+    "wechatLabel": "WeChat"
+  },
+  "contact": {
+    "heading": "프로젝트를 이야기해 봅시다",
+    "body": "제품 아이디어, 전달 파트너를 찾고 계시거나, 해당 산업의 AI 활용에 대해 이야기하고 싶으시면 언제든 연락 주세요.",
+    "email": "이메일 보내기",
+    "repos": "저장소 보기"
+  },
+  "footer": {
+    "tagline": "AI 기반 비즈니스 솔루션, 프로덕션까지.",
+    "gicsBefore": "오픈소스 발자취는 ",
+    "gicsLink": "MSCI / S&P GICS",
+    "rights": "모든 권리 보유."
+  },
+  "repos": {
+    "pageTitle": "DotKu Studio — GICS 섹터별 오픈소스 발자취",
+    "pageDescription": "github.com/dotku의 공개 저장소 865+개(포크는 🔀)를 Global Industry Classification Standard (GICS)로 분류했습니다.",
+    "heroEyebrow": "오픈소스 · GitHub",
+    "heroHeadingPrefix": "",
+    "heroHeadingAccent": "GICS 섹터",
+    "heroSubBefore": "",
+    "heroSubMid": "의 공개 저장소 865+개(포크는 🔀)를 ",
+    "heroSubAfter": "로 분류 — 섹터 → 산업 그룹 → 산업.",
+    "filterPlaceholder": "이름 또는 설명으로 필터…",
+    "backHome": "← 홈",
+    "pageHeading": "GICS 분류별 GitHub 저장소",
+    "overviewHeading": "개요",
+    "noMatch": "조건에 맞는 저장소가 없습니다."
+  },
+  "table": { "sector": "섹터", "group": "산업 그룹", "count": "저장소 수", "total": "합계" }
+}

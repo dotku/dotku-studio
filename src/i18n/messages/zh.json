@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "DotKu Studio — AI 驱动的商业解决方案",
+    "description": "DotKu Studio — 旧金山湾区工作室，为 9 大行业企业交付生产级 AI、Web 与移动产品。865+ 开源项目、30+ 企业客户、13+ 年经验"
+  },
+  "nav": {
+    "services": "服务",
+    "clients": "客户",
+    "work": "作品",
+    "stats": "数据概览",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "repos": "仓库 →"
+  },
+  "about": {
+    "pageTitle": "关于 DotKu Studio",
+    "pageDescription": "DotKu Studio 是一家位于旧金山湾区的工作室，为 9 大行业的企业交付 AI 驱动的商业解决方案",
+    "eyebrow": "关于我们",
+    "heading": "为交付而生的工作室",
+    "sub": "我们是一支紧凑、资深的团队，专注于交付生产级软件。总部位于旧金山湾区，服务全球企业客户——从硅谷初创到亚洲与北美的成熟企业",
+    "missionHeading": "我们相信",
+    "missionBody": "真实产品胜过 PPT；开源胜过黑盒；长期合作胜过按小时计费。我们交付、开源、陪伴客户走过多个发布周期。"
+  },
+  "cta": {
+    "contact": "预约咨询",
+    "quote": "申请提案"
+  },
+  "hero": {
+    "badge": "正在承接新项目",
+    "headlineLeft": "",
+    "headlineMid": "AI 驱动",
+    "headlineRight": "的商业解决方案，交付上线",
+    "body": "DotKu Studio 是一家位于旧金山湾区的工作室，为媒体、科技、医疗、供应链、金融等行业的企业客户构建生产级 AI、Web 与移动产品。我们交付真实产品，并将沉淀的经验开源出来。",
+    "ctaProjects": "查看作品",
+    "ctaPartners": "合作客户"
+  },
+  "services": {
+    "eyebrow": "我们能做什么",
+    "heading": "定制方案，直达生产",
+    "sub": "从 AI 集成到多语言商业门户，我们与企业并肩交付真正能跑的产品",
+    "learnMore": "了解更多",
+    "items": {
+      "ai": {
+        "title": "AI 集成 & 定制 LLM",
+        "desc": "面向企业的生产级 AI 功能、RAG 管道、智能体系统与定制模型微调"
+      },
+      "enterprise": {
+        "title": "企业软件开发",
+        "desc": "端到端产品交付：Next.js / React Web 应用、移动端、内部工具、CRM 与后端平台"
+      },
+      "global": {
+        "title": "多语言门户 & 电商",
+        "desc": "URL 驱动 i18n、SEO 优化内容、集成支付的全球化商业门户"
+      },
+      "advisory": {
+        "title": "技术顾问 & 尽职调查",
+        "desc": "1:1 咨询、架构评审、并购技术尽调与技术招聘支持"
+      }
+    }
+  },
+  "stats": {
+    "clients": "企业客户",
+    "industries": "服务行业",
+    "repos": "开源项目",
+    "years": "行业经验"
+  },
+  "partners": {
+    "eyebrow": "客户 & 合作",
+    "heading": "9 大行业的信赖之选",
+    "sub": "长期合作关系——从湾区初创公司到中国、加拿大和美国的成熟企业",
+    "tech": "科技",
+    "media": "媒体",
+    "medical": "医疗",
+    "supply": "供应链",
+    "finance": "金融",
+    "misc": "时尚 · 食品 · 资源 · 教育",
+    "tag": { "fashion": "时尚", "food": "食品", "nature": "资源", "edu": "教育" }
+  },
+  "projects": {
+    "eyebrow": "开源",
+    "heading": "按 GICS 行业分类的开源版图",
+    "subBefore": "865+ 个公开仓库（fork 以 🔀 标记），使用 ",
+    "subLink": "全球行业分类标准 (GICS)",
+    "subAfter": " 分类——MSCI 与 S&P 用于全球股票市场的分类体系。这是我们所覆盖领域的一张地图。",
+    "browse": "查看完整分类列表"
+  },
+  "sector": {
+    "it": { "name": "信息技术", "desc": "软件、IT 服务、硬件与半导体。AI、LLM 工具、Next.js 应用、DevOps" },
+    "cd": { "name": "非必需消费品", "desc": "零售、服装、餐饮、旅行、教育与消费者服务" },
+    "ind": { "name": "工业", "desc": "资本品、交通物流、商业与专业服务" },
+    "com": { "name": "通信服务", "desc": "媒体、娱乐、电信、交互媒体与社交平台" },
+    "fin": { "name": "金融", "desc": "Fintech、加密货币、支付、交易与记账工具" },
+    "hc": { "name": "医疗保健", "desc": "医疗设备、远程医疗、检验、诊所与健康应用" },
+    "en": { "name": "能源", "desc": "太阳能、便携储能 (Carku) 及能源基础设施工具" },
+    "cs": { "name": "必需消费品", "desc": "食品与饮料演示项目" },
+    "re": { "name": "房地产", "desc": "湾区估价与不动产工具" }
+  },
+  "sub": {
+    "it": { "app": "应用软件", "infra": "互联网基础设施", "sys": "系统软件" },
+    "cd": { "retail": "零售", "services": "服务", "apparel": "服装" },
+    "ind": { "prof": "专业服务", "cap": "资本品", "trans": "运输" },
+    "com": { "interactive": "交互媒体", "media": "媒体", "telecom": "电信" },
+    "fin": { "services": "金融服务" },
+    "hc": { "equip": "设备与服务", "bio": "生物科技" }
+  },
+  "featured": {
+    "eyebrow": "精选作品",
+    "heading": "案例研究与精选项目",
+    "sub": "我们与客户共同交付的部分产品——全部开源，欢迎深入了解",
+    "projects": {
+      "video2text": "从视频中提取语音和视觉内容为文本——已投入生产使用",
+      "sienovo": "使用 Next.js 和 MDX 构建的国际商业门户",
+      "crm": "聚焦业务开发与推荐的轻量级 CRM 系统",
+      "hippa": "面向医疗场景、考虑 HIPAA 合规的聊天 Demo",
+      "mcn": "面向湾区创作者的多频道网络 (MCN) 工具",
+      "search": "基于 Next.js 15 + TypeScript 的多平台搜索聚合器"
+    }
+  },
+  "team": {
+    "eyebrow": "团队",
+    "heading": "认识团队",
+    "sub": "一支紧密协作的团队，覆盖工程、产品交付与全球销售",
+    "members": {
+      "jay": { "role": "创始人 & 技术负责人" },
+      "leo": { "role": "联合创始人 & 全球销售负责人" }
+    },
+    "wechatLabel": "微信"
+  },
+  "contact": {
+    "heading": "聊聊您的项目",
+    "body": "有产品想法、需要交付伙伴，或想探讨 AI 在您行业的应用？欢迎联系我们。",
+    "email": "发邮件",
+    "repos": "浏览仓库"
+  },
+  "footer": {
+    "tagline": "AI 驱动的商业解决方案，交付上线",
+    "gicsBefore": "开源版图依据 ",
+    "gicsLink": "MSCI / S&P GICS",
+    "rights": "保留所有权利"
+  },
+  "repos": {
+    "pageTitle": "DotKu Studio — 按 GICS 行业分类的开源版图",
+    "pageDescription": "github.com/dotku 下 865+ 个公开仓库（fork 以 🔀 标记），使用全球行业分类标准 (GICS) 分类",
+    "heroEyebrow": "开源 · GitHub",
+    "heroHeadingPrefix": "按 ",
+    "heroHeadingAccent": "GICS 行业",
+    "heroSubBefore": "",
+    "heroSubMid": " 下 865+ 个公开仓库（fork 以 🔀 标记），使用 ",
+    "heroSubAfter": " 分类 — 板块 → 行业组 → 细分行业",
+    "filterPlaceholder": "按名称或描述过滤仓库…",
+    "backHome": "← 返回首页",
+    "pageHeading": "按 GICS 分类的 GitHub 仓库",
+    "overviewHeading": "概览",
+    "noMatch": "没有匹配的仓库"
+  },
+  "table": { "sector": "板块", "group": "行业组", "count": "仓库数", "total": "合计" }
+}
