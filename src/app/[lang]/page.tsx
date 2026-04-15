@@ -9,6 +9,7 @@ import { Partners } from "@/components/Partners";
 import { Projects } from "@/components/Projects";
 import { Featured } from "@/components/Featured";
 import { Contact } from "@/components/Contact";
+import { JsonLd } from "@/components/JsonLd";
 import { Footer } from "@/components/Footer";
 
 export default async function HomePage({
@@ -22,6 +23,7 @@ export default async function HomePage({
 
   return (
     <>
+      <JsonLd lang={lang} dict={dict} pageType="home" />
       <Header lang={lang} dict={dict} />
       <main id="top" className="flex-1">
         <Hero lang={lang} dict={dict} />

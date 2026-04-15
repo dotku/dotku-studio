@@ -7,6 +7,7 @@ import { Footer } from "@/components/Footer";
 import { Team } from "@/components/Team";
 import { Stats } from "@/components/Stats";
 import { Contact } from "@/components/Contact";
+import { JsonLd } from "@/components/JsonLd";
 
 type Props = { params: Promise<{ lang: string }> };
 
@@ -28,6 +29,7 @@ export default async function AboutPage({ params }: Props) {
 
   return (
     <>
+      <JsonLd lang={lang} dict={dict} pageType="about" />
       <Header lang={lang} dict={dict} />
       <main className="flex-1">
         <section className="relative overflow-hidden hero-gradient border-b border-slate-200">
