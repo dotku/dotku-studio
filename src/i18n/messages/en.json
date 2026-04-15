@@ -107,6 +107,7 @@
     "eyebrow": "Selected work",
     "heading": "Case studies & featured projects",
     "sub": "A selection of the products we've shipped with partners — each one is open-source so you can inspect the craft.",
+    "viewAll": "View all case studies",
     "projects": {
       "video2text": "Extract speech and visual content from videos into text — used in production.",
       "sienovo": "International business portal built with Next.js and MDX.",
@@ -115,6 +116,22 @@
       "mcn": "Multi-Channel Network tooling for creators in the Bay Area.",
       "search": "Next.js 15 + TypeScript search aggregator across multiple platforms."
     }
+  },
+  "caseStudy": {
+    "pageTitle": "Case Studies",
+    "pageDescription": "Case studies from DotKu Studio — production AI, web and mobile products shipped with partners across 9 industries.",
+    "eyebrow": "Case studies",
+    "heading": "Work we've shipped with partners",
+    "sub": "Selected production projects — each one open-source so you can inspect the craft, the tech stack and the outcome.",
+    "backToList": "← All case studies",
+    "viewOnGithub": "View on GitHub",
+    "exploreCta": "Start a project like this",
+    "clientLabel": "Client",
+    "yearLabel": "Year",
+    "techLabel": "Tech stack",
+    "outcomeLabel": "Outcome",
+    "overviewLabel": "Overview",
+    "moreLabel": "More case studies"
   },
   "team": {
     "eyebrow": "Leadership",

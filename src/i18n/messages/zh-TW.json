@@ -107,6 +107,7 @@
     "eyebrow": "精選作品",
     "heading": "案例研究與精選專案",
     "sub": "我們與客戶共同交付的部分產品——全部開源，歡迎深入了解",
+    "viewAll": "查看全部案例",
     "projects": {
       "video2text": "從影片中擷取語音與視覺內容為文字——已用於正式生產",
       "sienovo": "使用 Next.js 與 MDX 打造的國際商業入口網站",
@@ -115,6 +116,22 @@
       "mcn": "面向灣區創作者的多頻道網路 (MCN) 工具",
       "search": "基於 Next.js 15 + TypeScript 的跨平台搜尋聚合器"
     }
+  },
+  "caseStudy": {
+    "pageTitle": "案例研究",
+    "pageDescription": "DotKu Studio 案例集——與 9 大產業合作夥伴共同交付的生產級 AI、Web 與行動產品",
+    "eyebrow": "案例研究",
+    "heading": "與合作夥伴共同交付的產品",
+    "sub": "精選生產級專案——全部開源，可深入了解實作細節、技術棧與成效",
+    "backToList": "← 返回案例列表",
+    "viewOnGithub": "在 GitHub 查看",
+    "exploreCta": "啟動類似專案",
+    "clientLabel": "客戶",
+    "yearLabel": "年份",
+    "techLabel": "技術棧",
+    "outcomeLabel": "成效",
+    "overviewLabel": "概述",
+    "moreLabel": "更多案例"
   },
   "team": {
     "eyebrow": "團隊",

@@ -107,6 +107,7 @@
     "eyebrow": "Trabajo seleccionado",
     "heading": "Casos de estudio y proyectos destacados",
     "sub": "Una selección de los productos que hemos entregado con socios — todo open source, para que inspecciones el trabajo.",
+    "viewAll": "Ver todos los casos",
     "projects": {
       "video2text": "Extrae audio y contenido visual de videos a texto — usado en producción.",
       "sienovo": "Portal internacional de negocio construido con Next.js y MDX.",
@@ -115,6 +116,22 @@
       "mcn": "Herramientas Multi-Channel Network para creadores del Área de la Bahía.",
       "search": "Agregador de búsqueda Next.js 15 + TypeScript multi-plataforma."
     }
+  },
+  "caseStudy": {
+    "pageTitle": "Casos de estudio",
+    "pageDescription": "Casos de estudio de DotKu Studio — productos de IA, web y móviles entregados con socios en 9 industrias.",
+    "eyebrow": "Casos de estudio",
+    "heading": "Productos que hemos entregado con socios",
+    "sub": "Proyectos seleccionados de producción — todos open source, para que inspecciones el trabajo, el stack y el resultado.",
+    "backToList": "← Todos los casos",
+    "viewOnGithub": "Ver en GitHub",
+    "exploreCta": "Iniciar un proyecto similar",
+    "clientLabel": "Cliente",
+    "yearLabel": "Año",
+    "techLabel": "Stack técnico",
+    "outcomeLabel": "Resultado",
+    "overviewLabel": "Resumen",
+    "moreLabel": "Más casos"
   },
   "team": {
     "eyebrow": "Liderazgo",

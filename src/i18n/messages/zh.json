@@ -107,6 +107,7 @@
     "eyebrow": "精选作品",
     "heading": "案例研究与精选项目",
     "sub": "我们与客户共同交付的部分产品——全部开源，欢迎深入了解",
+    "viewAll": "查看全部案例",
     "projects": {
       "video2text": "从视频中提取语音和视觉内容为文本——已投入生产使用",
       "sienovo": "使用 Next.js 和 MDX 构建的国际商业门户",
@@ -115,6 +116,22 @@
       "mcn": "面向湾区创作者的多频道网络 (MCN) 工具",
       "search": "基于 Next.js 15 + TypeScript 的多平台搜索聚合器"
     }
+  },
+  "caseStudy": {
+    "pageTitle": "案例研究",
+    "pageDescription": "DotKu Studio 案例合集——与 9 大行业合作方共同交付的生产级 AI、Web 与移动产品",
+    "eyebrow": "案例研究",
+    "heading": "与合作方共同交付的产品",
+    "sub": "精选生产级项目——全部开源，可深入了解实现细节、技术栈与成效",
+    "backToList": "← 返回案例列表",
+    "viewOnGithub": "在 GitHub 查看",
+    "exploreCta": "启动类似项目",
+    "clientLabel": "客户",
+    "yearLabel": "年份",
+    "techLabel": "技术栈",
+    "outcomeLabel": "成效",
+    "overviewLabel": "概述",
+    "moreLabel": "更多案例"
   },
   "team": {
     "eyebrow": "团队",

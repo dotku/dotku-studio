@@ -17,7 +17,7 @@ export function Header({ lang, dict }: { lang: Locale; dict: Dictionary }) {
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-slate-600">
           <a href={`${home}#services`} className="hover:text-brand-600">{dict.nav.services}</a>
           <a href={`${home}#clients`} className="hover:text-brand-600">{dict.nav.clients}</a>
-          <a href={`${home}#work`} className="hover:text-brand-600">{dict.nav.work}</a>
+          <Link href={`/${lang}/case-studies`} className="hover:text-brand-600">{dict.nav.work}</Link>
           <Link href={`/${lang}/about`} className="hover:text-brand-600">{dict.nav.about}</Link>
           <a href={`${home}#contact`} className="hover:text-brand-600">{dict.nav.contact}</a>
           <Link href={`/${lang}/repos`} className="hover:text-brand-600">{dict.nav.repos}</Link>

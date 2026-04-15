@@ -89,9 +89,6 @@ export async function generateMetadata({
       description: dict.meta.description,
       images: [`/${lang}/opengraph-image`],
     },
-    icons: {
-      icon: "/favicon.ico",
-    },
   };
 }
 

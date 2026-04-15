@@ -30,7 +30,7 @@ export default async function HomePage({
         <Stats dict={dict} />
         <Services dict={dict} />
         <Partners dict={dict} />
-        <Featured dict={dict} />
+        <Featured lang={lang} dict={dict} />
         <Projects lang={lang} dict={dict} />
         <Contact lang={lang} dict={dict} />
       </main>

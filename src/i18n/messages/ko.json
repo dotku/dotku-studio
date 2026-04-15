@@ -107,6 +107,7 @@
     "eyebrow": "선별된 작업",
     "heading": "사례 연구 & 주요 프로젝트",
     "sub": "파트너와 함께 출시한 제품들의 일부 — 모두 오픈소스로 작업 과정을 확인하실 수 있습니다.",
+    "viewAll": "모든 사례 보기",
     "projects": {
       "video2text": "영상에서 음성과 시각 콘텐츠를 텍스트로 추출 — 실서비스에 사용 중.",
       "sienovo": "Next.js와 MDX로 만든 국제 비즈니스 포털.",
@@ -115,6 +116,22 @@
       "mcn": "베이 에어리어 크리에이터를 위한 MCN 도구.",
       "search": "Next.js 15 + TypeScript 기반 멀티 플랫폼 검색 집계기."
     }
+  },
+  "caseStudy": {
+    "pageTitle": "사례 연구",
+    "pageDescription": "DotKu Studio 사례 연구 — 9개 산업의 파트너와 함께 전달한 프로덕션 AI·웹·모바일 제품.",
+    "eyebrow": "사례 연구",
+    "heading": "파트너와 함께 출시한 제품",
+    "sub": "선별된 프로덕션 프로젝트 — 모두 오픈소스로 구현, 기술 스택, 성과를 자세히 확인할 수 있습니다.",
+    "backToList": "← 사례 목록으로",
+    "viewOnGithub": "GitHub에서 보기",
+    "exploreCta": "비슷한 프로젝트 시작",
+    "clientLabel": "고객",
+    "yearLabel": "연도",
+    "techLabel": "기술 스택",
+    "outcomeLabel": "성과",
+    "overviewLabel": "개요",
+    "moreLabel": "더 많은 사례"
   },
   "team": {
     "eyebrow": "리더십",

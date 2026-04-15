@@ -107,6 +107,7 @@
     "eyebrow": "主な作品",
     "heading": "事例 & 注目プロジェクト",
     "sub": "パートナーと届けたプロダクトから抜粋 — すべてオープンソースなので、制作の中身までご確認いただけます。",
+    "viewAll": "すべての事例を見る",
     "projects": {
       "video2text": "動画から音声と視覚情報をテキスト化 — 本番利用中。",
       "sienovo": "Next.js と MDX で構築した国際ビジネスポータル。",
@@ -115,6 +116,22 @@
       "mcn": "ベイエリアのクリエイター向け MCN ツール。",
       "search": "Next.js 15 + TypeScript のマルチプラットフォーム検索アグリゲーター。"
     }
+  },
+  "caseStudy": {
+    "pageTitle": "事例紹介",
+    "pageDescription": "DotKu Studio の事例集 — 9 業界のパートナーと共に届けた本番水準の AI・Web・モバイルプロダクト。",
+    "eyebrow": "事例紹介",
+    "heading": "パートナーと届けたプロダクト",
+    "sub": "厳選した本番プロジェクト — すべてオープンソースで、実装・技術スタック・成果をご確認いただけます。",
+    "backToList": "← 事例一覧へ",
+    "viewOnGithub": "GitHub で見る",
+    "exploreCta": "同様のプロジェクトを始める",
+    "clientLabel": "顧客",
+    "yearLabel": "年",
+    "techLabel": "技術スタック",
+    "outcomeLabel": "成果",
+    "overviewLabel": "概要",
+    "moreLabel": "その他の事例"
   },
   "team": {
     "eyebrow": "リーダーシップ",
