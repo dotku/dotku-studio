@@ -73,8 +73,8 @@
     "medical": "医疗",
     "supply": "供应链",
     "finance": "金融",
-    "misc": "时尚 · 食品 · 资源 · 教育",
-    "tag": { "fashion": "时尚", "food": "食品", "nature": "资源", "edu": "教育" }
+    "misc": "时尚 · 美妆 · 食品 · 资源 · 教育",
+    "tag": { "fashion": "时尚", "beauty": "美妆", "food": "食品", "nature": "资源", "edu": "教育" }
   },
   "projects": {
     "eyebrow": "开源",

@@ -73,8 +73,8 @@
     "medical": "Salud",
     "supply": "Cadena de suministro",
     "finance": "Finanzas",
-    "misc": "Moda · Alimentos · Recursos · Educación",
-    "tag": { "fashion": "Moda", "food": "Comida", "nature": "Recursos", "edu": "Edu" }
+    "misc": "Moda · Belleza · Alimentos · Recursos · Educación",
+    "tag": { "fashion": "Moda", "beauty": "Belleza", "food": "Comida", "nature": "Recursos", "edu": "Edu" }
   },
   "projects": {
     "eyebrow": "Código abierto",

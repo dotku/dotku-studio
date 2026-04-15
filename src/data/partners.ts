@@ -3,7 +3,7 @@ export type PartnerGroupKey = "tech" | "media" | "medical" | "supply" | "finance
 export type Partner = {
   name: string;
   href?: string;
-  tagKey?: "fashion" | "food" | "nature" | "edu";
+  tagKey?: "fashion" | "food" | "nature" | "edu" | "beauty";
 };
 
 export type PartnerGroup = {
@@ -22,13 +22,15 @@ export const PARTNER_GROUPS: PartnerGroup[] = [
     icon: "⚙️",
     tone: { bg: "bg-brand-100", fg: "text-brand-700" },
     partners: [
-      { name: "嘉圓科技 JYTech", href: "https://jytech.us" },
+      { name: "杰圆科技 JYTech", href: "https://jytech.us" },
       { name: "深圳市华思旭 (卡儿酷能源)", href: "https://www.carku.com/" },
+      { name: "Coway", href: "https://coway.jytech.us/" },
       { name: "Crystal Start Innovation Group" },
       { name: "太古宙能源科技" },
       { name: "守卫者智能科技" },
       { name: "华拓明通出行科技", href: "https://ouxi.us" },
       { name: "Pear.us", href: "https://pear.us/" },
+      { name: "Merlyn AI", href: "https://merlyn.org/" },
     ],
   },
   {
@@ -75,6 +77,7 @@ export const PARTNER_GROUPS: PartnerGroup[] = [
     icon: "💳",
     tone: { bg: "bg-indigo-100", fg: "text-indigo-700" },
     partners: [
+      { name: "Good Driver Mutuality (GDM)", href: "https://gdm.jytech.us" },
       { name: "Intuit", href: "https://www.intuit.com/" },
       { name: "Xero", href: "https://www.xero.com/us/" },
       { name: "Gusto", href: "https://gusto.com/" },
@@ -87,6 +90,7 @@ export const PARTNER_GROUPS: PartnerGroup[] = [
     tone: { bg: "bg-rose-100", fg: "text-rose-700" },
     partners: [
       { name: "东莞市厚街昱晟鞋业", href: "https://dotku.us/dongguan-houjie-yusheng-shoes/", tagKey: "fashion" },
+      { name: "UNI&CORE", href: "https://unincore.us/", tagKey: "beauty" },
       { name: "福赢国际供应链管理", tagKey: "food" },
       { name: "紫金矿业", tagKey: "nature" },
       { name: "尤品新材料 UPIN New Material", href: "https://youpin.jytech.us/", tagKey: "nature" },
