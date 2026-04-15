@@ -84,8 +84,8 @@
     "medical": "醫療",
     "supply": "供應鏈",
     "finance": "金融",
-    "misc": "時尚 · 美妝 · 食品 · 資源 · 教育",
-    "tag": { "fashion": "時尚", "beauty": "美妝", "food": "食品", "nature": "資源", "edu": "教育" }
+    "misc": "時尚 · 美妝 · 餐飲 · 食品 · 資源 · 教育",
+    "tag": { "fashion": "時尚", "beauty": "美妝", "restaurant": "餐飲", "food": "食品", "nature": "資源", "edu": "教育" }
   },
   "projects": {
     "eyebrow": "開源",

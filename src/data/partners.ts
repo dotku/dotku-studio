@@ -3,7 +3,7 @@ export type PartnerGroupKey = "tech" | "media" | "medical" | "supply" | "finance
 export type Partner = {
   name: string;
   href?: string;
-  tagKey?: "fashion" | "food" | "nature" | "edu" | "beauty";
+  tagKey?: "fashion" | "food" | "restaurant" | "nature" | "edu" | "beauty";
 };
 
 export type PartnerGroup = {
@@ -47,6 +47,8 @@ export const PARTNER_GROUPS: PartnerGroup[] = [
       { name: "洛杉矶资讯网", href: "https://www.chineseinla.com/" },
       { name: "Nation X" },
       { name: "加拿大传奇文化", href: "https://thelegendsmedia.com/" },
+      { name: "BannerShop" },
+      { name: "FoodieGuide" },
     ],
   },
   {
@@ -91,6 +93,7 @@ export const PARTNER_GROUPS: PartnerGroup[] = [
     partners: [
       { name: "东莞市厚街昱晟鞋业", href: "https://dotku.us/dongguan-houjie-yusheng-shoes/", tagKey: "fashion" },
       { name: "UNI&CORE", href: "https://unincore.us/", tagKey: "beauty" },
+      { name: "88 Baobao", tagKey: "restaurant" },
       { name: "福赢国际供应链管理", tagKey: "food" },
       { name: "紫金矿业", tagKey: "nature" },
       { name: "尤品新材料 UPIN New Material", href: "https://youpin.jytech.us/", tagKey: "nature" },

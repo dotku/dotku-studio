@@ -48,6 +48,7 @@ export const VENDORS: Vendor[] = [
 
   // Social platforms
   { name: "WeChat 微信", href: "https://open.weixin.qq.com/", category: "social", dotColor: "bg-green-500" },
+  { name: "TikTok", href: "https://developers.tiktok.com/", category: "social", dotColor: "bg-slate-900" },
   { name: "YouTube", href: "https://developers.google.com/youtube", category: "social", dotColor: "bg-red-600" },
   { name: "Facebook", href: "https://developers.facebook.com/", category: "social", dotColor: "bg-blue-600" },
   { name: "Instagram", href: "https://developers.facebook.com/products/instagram/", category: "social", dotColor: "bg-pink-500" },

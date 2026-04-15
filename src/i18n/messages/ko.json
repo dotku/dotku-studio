@@ -84,8 +84,8 @@
     "medical": "의료",
     "supply": "공급망",
     "finance": "금융",
-    "misc": "패션 · 뷰티 · 식품 · 자원 · 교육",
-    "tag": { "fashion": "패션", "beauty": "뷰티", "food": "식품", "nature": "자원", "edu": "교육" }
+    "misc": "패션 · 뷰티 · 외식 · 식품 · 자원 · 교육",
+    "tag": { "fashion": "패션", "beauty": "뷰티", "restaurant": "외식", "food": "식품", "nature": "자원", "edu": "교육" }
   },
   "projects": {
     "eyebrow": "오픈소스",

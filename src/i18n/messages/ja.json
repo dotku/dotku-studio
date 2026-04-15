@@ -84,8 +84,8 @@
     "medical": "医療",
     "supply": "サプライチェーン",
     "finance": "金融",
-    "misc": "ファッション · 美容 · 食品 · 資源 · 教育",
-    "tag": { "fashion": "ファッション", "beauty": "美容", "food": "食品", "nature": "資源", "edu": "教育" }
+    "misc": "ファッション · 美容 · 飲食 · 食品 · 資源 · 教育",
+    "tag": { "fashion": "ファッション", "beauty": "美容", "restaurant": "飲食", "food": "食品", "nature": "資源", "edu": "教育" }
   },
   "projects": {
     "eyebrow": "オープンソース",
