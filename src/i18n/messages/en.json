@@ -84,7 +84,7 @@
     "medical": "Medical",
     "supply": "Supply Chain",
     "finance": "Finance",
-    "misc": "Fashion · Beauty · Restaurant · Food · Resources · Education",
+    "misc": "Lifestyle & Education",
     "tag": { "fashion": "Fashion", "beauty": "Beauty", "restaurant": "Restaurant", "food": "Food", "nature": "Nature", "edu": "Edu" }
   },
   "projects": {
@@ -182,5 +182,35 @@
     "overviewHeading": "Overview",
     "noMatch": "No repositories match your filter."
   },
-  "table": { "sector": "Sector", "group": "Industry Group", "count": "# Repos", "total": "Total" }
+  "table": { "sector": "Sector", "group": "Industry Group", "count": "# Repos", "total": "Total" },
+  "costCenter": {
+    "pageTitle": "Cost Center — DotKu Studio",
+    "pageDescription": "Running software and infrastructure costs for current projects.",
+    "backHome": "← Home",
+    "eyebrow": "Internal",
+    "heading": "Cost Center",
+    "sub": "Running software and infrastructure costs for current projects. Yearly subscriptions are amortized to monthly; one-time purchases are listed but excluded from the running total.",
+    "totalMonthly": "Total / month",
+    "totalYearly": "Total / year",
+    "mo": "mo",
+    "category": {
+      "ai": "AI & LLMs",
+      "infra": "Infrastructure & hosting",
+      "dev": "Developer tools",
+      "saas": "SaaS",
+      "other": "Other"
+    },
+    "frequency": {
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "one-time": "One-time"
+    },
+    "table": {
+      "name": "Service",
+      "frequency": "Frequency",
+      "amount": "Amount",
+      "monthly": "Monthly"
+    },
+    "footnote": "Amounts normalized to USD. Edit src/data/costs.ts to update."
+  }
 }

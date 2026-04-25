@@ -84,7 +84,7 @@
     "medical": "医疗",
     "supply": "供应链",
     "finance": "金融",
-    "misc": "时尚 · 美妆 · 餐饮 · 食品 · 资源 · 教育",
+    "misc": "生活方式与教育",
     "tag": { "fashion": "时尚", "beauty": "美妆", "restaurant": "餐饮", "food": "食品", "nature": "资源", "edu": "教育" }
   },
   "projects": {
@@ -182,5 +182,35 @@
     "overviewHeading": "概览",
     "noMatch": "没有匹配的仓库"
   },
-  "table": { "sector": "板块", "group": "行业组", "count": "仓库数", "total": "合计" }
+  "table": { "sector": "板块", "group": "行业组", "count": "仓库数", "total": "合计" },
+  "costCenter": {
+    "pageTitle": "成本中心 — DotKu Studio",
+    "pageDescription": "当前项目的软件与基础设施运营成本。",
+    "backHome": "← 返回首页",
+    "eyebrow": "内部",
+    "heading": "成本中心",
+    "sub": "当前项目的软件与基础设施运营成本。年付订阅均摊为月付；一次性购买仅列示，不计入合计。",
+    "totalMonthly": "每月合计",
+    "totalYearly": "每年合计",
+    "mo": "月",
+    "category": {
+      "ai": "AI 与大模型",
+      "infra": "基础设施与托管",
+      "dev": "开发者工具",
+      "saas": "SaaS",
+      "other": "其他"
+    },
+    "frequency": {
+      "monthly": "按月",
+      "yearly": "按年",
+      "one-time": "一次性"
+    },
+    "table": {
+      "name": "服务",
+      "frequency": "计费周期",
+      "amount": "金额",
+      "monthly": "折合月付"
+    },
+    "footnote": "金额以美元 (USD) 计。可在 src/data/costs.ts 中修改。"
+  }
 }

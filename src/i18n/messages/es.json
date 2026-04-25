@@ -84,7 +84,7 @@
     "medical": "Salud",
     "supply": "Cadena de suministro",
     "finance": "Finanzas",
-    "misc": "Moda · Belleza · Restauración · Alimentos · Recursos · Educación",
+    "misc": "Estilo de vida y Educación",
     "tag": { "fashion": "Moda", "beauty": "Belleza", "restaurant": "Restaurante", "food": "Comida", "nature": "Recursos", "edu": "Edu" }
   },
   "projects": {
@@ -182,5 +182,35 @@
     "overviewHeading": "Resumen",
     "noMatch": "Ningún repositorio coincide con tu filtro."
   },
-  "table": { "sector": "Sector", "group": "Grupo industrial", "count": "# Repos", "total": "Total" }
+  "table": { "sector": "Sector", "group": "Grupo industrial", "count": "# Repos", "total": "Total" },
+  "costCenter": {
+    "pageTitle": "Centro de costos — DotKu Studio",
+    "pageDescription": "Costos de software e infraestructura en curso para los proyectos actuales.",
+    "backHome": "← Inicio",
+    "eyebrow": "Interno",
+    "heading": "Centro de costos",
+    "sub": "Costos de software e infraestructura en curso para los proyectos actuales. Las suscripciones anuales se prorratean a mensual; las compras únicas se listan pero no se suman al total.",
+    "totalMonthly": "Total / mes",
+    "totalYearly": "Total / año",
+    "mo": "mes",
+    "category": {
+      "ai": "IA y LLMs",
+      "infra": "Infraestructura y hosting",
+      "dev": "Herramientas de desarrollo",
+      "saas": "SaaS",
+      "other": "Otros"
+    },
+    "frequency": {
+      "monthly": "Mensual",
+      "yearly": "Anual",
+      "one-time": "Único"
+    },
+    "table": {
+      "name": "Servicio",
+      "frequency": "Frecuencia",
+      "amount": "Importe",
+      "monthly": "Mensual"
+    },
+    "footnote": "Importes normalizados en USD. Edita src/data/costs.ts para actualizar."
+  }
 }

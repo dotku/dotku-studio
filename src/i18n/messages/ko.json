@@ -84,7 +84,7 @@
     "medical": "의료",
     "supply": "공급망",
     "finance": "금융",
-    "misc": "패션 · 뷰티 · 외식 · 식품 · 자원 · 교육",
+    "misc": "라이프스타일 & 교육",
     "tag": { "fashion": "패션", "beauty": "뷰티", "restaurant": "외식", "food": "식품", "nature": "자원", "edu": "교육" }
   },
   "projects": {
@@ -182,5 +182,35 @@
     "overviewHeading": "개요",
     "noMatch": "조건에 맞는 저장소가 없습니다."
   },
-  "table": { "sector": "섹터", "group": "산업 그룹", "count": "저장소 수", "total": "합계" }
+  "table": { "sector": "섹터", "group": "산업 그룹", "count": "저장소 수", "total": "합계" },
+  "costCenter": {
+    "pageTitle": "코스트 센터 — DotKu Studio",
+    "pageDescription": "현재 프로젝트의 소프트웨어 및 인프라 운영 비용.",
+    "backHome": "← 홈",
+    "eyebrow": "내부",
+    "heading": "코스트 센터",
+    "sub": "현재 프로젝트의 소프트웨어 및 인프라 운영 비용. 연간 구독은 월 단위로 환산되며, 일회성 결제는 합계에서 제외됩니다.",
+    "totalMonthly": "월 합계",
+    "totalYearly": "연 합계",
+    "mo": "월",
+    "category": {
+      "ai": "AI 및 LLM",
+      "infra": "인프라 및 호스팅",
+      "dev": "개발자 도구",
+      "saas": "SaaS",
+      "other": "기타"
+    },
+    "frequency": {
+      "monthly": "월간",
+      "yearly": "연간",
+      "one-time": "일회성"
+    },
+    "table": {
+      "name": "서비스",
+      "frequency": "결제 주기",
+      "amount": "금액",
+      "monthly": "월 환산"
+    },
+    "footnote": "금액은 USD 기준. src/data/costs.ts 에서 수정하세요."
+  }
 }

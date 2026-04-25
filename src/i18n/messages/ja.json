@@ -84,7 +84,7 @@
     "medical": "医療",
     "supply": "サプライチェーン",
     "finance": "金融",
-    "misc": "ファッション · 美容 · 飲食 · 食品 · 資源 · 教育",
+    "misc": "ライフスタイル・教育",
     "tag": { "fashion": "ファッション", "beauty": "美容", "restaurant": "飲食", "food": "食品", "nature": "資源", "edu": "教育" }
   },
   "projects": {
@@ -182,5 +182,35 @@
     "overviewHeading": "概要",
     "noMatch": "該当するリポジトリがありません。"
   },
-  "table": { "sector": "セクター", "group": "産業グループ", "count": "リポ数", "total": "合計" }
+  "table": { "sector": "セクター", "group": "産業グループ", "count": "リポ数", "total": "合計" },
+  "costCenter": {
+    "pageTitle": "コストセンター — DotKu Studio",
+    "pageDescription": "現行プロジェクトのソフトウェアとインフラの運用コスト。",
+    "backHome": "← ホーム",
+    "eyebrow": "社内",
+    "heading": "コストセンター",
+    "sub": "現行プロジェクトのソフトウェアとインフラの運用コスト。年額サブスクは月額換算し、一回限りの購入は合計から除外します。",
+    "totalMonthly": "月合計",
+    "totalYearly": "年合計",
+    "mo": "月",
+    "category": {
+      "ai": "AI・LLM",
+      "infra": "インフラ・ホスティング",
+      "dev": "開発者ツール",
+      "saas": "SaaS",
+      "other": "その他"
+    },
+    "frequency": {
+      "monthly": "月額",
+      "yearly": "年額",
+      "one-time": "一括"
+    },
+    "table": {
+      "name": "サービス",
+      "frequency": "頻度",
+      "amount": "金額",
+      "monthly": "月額換算"
+    },
+    "footnote": "金額は USD で統一。src/data/costs.ts を編集してください。"
+  }
 }
